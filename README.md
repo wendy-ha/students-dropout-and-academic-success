@@ -14,18 +14,18 @@ Course was chosen as the categorical column for visualisation since the difficul
 <br/><br/>
 By using bar chart, each course is represented by one column on the x-axis. Each column's height is proportional to the number of students enrolled in that course along the y-axis.
 
-![image](https://user-images.githubusercontent.com/90888090/175802114-635ee176-be5e-4c53-bf80-bcea78a15199.png)
+![courses_total_enrolled](charts/courses_total_enrolled.png)
 >**Findings**: Medical major such as nursing attracted the most students in Portugal in 2021 as a result of the COVID-19. Following that are managerial and social services courses.
 
 ### Which age group has the highest number of students pursuing higher education?
 The age range of 18 to 70 years was chosen as numerical column for visualisation since it possibly has a correlation with graduation and dropout rates. To illustrate, the age has been divided into four smaller categories: 17-25, 26-35, 36- 45 and 50+.
 
-![image](https://user-images.githubusercontent.com/90888090/175802194-7394a557-6831-4407-9eac-60f313a402a4.png)
+![age_range_total_enrolled](charts/age_range_total_enrolled.png)
 >**Findings**: The age range of 17-35 years old has the highest percentage of students pursuing higher education, which is largely due to the popularity of bachelor's degrees at this age. On the other hand, the age range 25-35 has less people go to higher edution than the group of 36-45, indicating that 36-45 possibly is a popular age group for post graduate degrees such as Master or PhD.
 
 ### Which courses have the highest and lowest enrolment, dropout, and graduation rates?
 
-![image](https://user-images.githubusercontent.com/90888090/175802213-02e5c623-855a-475a-9f8b-fa7ad0268e1f.png)
+![courses_enrollment_dropout_graduation_rates](charts/courses_enrollment_dropout_graduation_rates.png)
 >**Findings:**
 - Three courses with the highest graduation rates are Nursing, Social Service, and Journalist.
 These three vocations offer significant rewards and opportunities during the COVID pandemic due to the shortage of human resources, which may serve as a motivator for students to attempt to complete the course in order to enter the labour market.
@@ -33,12 +33,12 @@ These three vocations offer significant rewards and opportunities during the COV
 
 ### Does gender have an effect on academic resilience and academic achievement among students in higher education?
 
-![image](https://user-images.githubusercontent.com/90888090/175802233-7b069eb3-7124-44db-88f4-78f19a329c2d.png)
+![gender_total_students](charts/gender_total_students.png)
 >**Findings:** In general, more women enrol in and complete courses than men. More precisely, women graduate at a rate that is three times that of men. This demonstrates that women are highly committed and resilient in their pursuit of academic’s goals.
 
 ### How is GDP related to the unemployment rate of a country?
 
-![image](https://user-images.githubusercontent.com/90888090/175802255-0976ecc4-193e-42de-b85b-3cfaa290f705.png)
+![gdp_unemployment_rate](charts/gdp_unemployment_rate.png)
 >**Findings:**
 - Successful graduation does not guarantee students will instantly find work, and dropping out does not mean students will remain jobless. The correlation between the country’s GDP and unemployment rate reveals the labour market’s potential within the national economy.
 - The Join Plot clearly shows that GDP and Unemployment rate are negatively correlated. That means, when GDP declines, the economy becomes more difficult, and the unemployment rate rises. Increases in GDP result in an increase in job possibilities and a decrease in the unemployment rate.
@@ -46,7 +46,7 @@ These three vocations offer significant rewards and opportunities during the COV
 ### Correlation between all numerical variables 
 #### Scatter matrix
 
-![image](https://user-images.githubusercontent.com/90888090/175802278-969167d9-deea-40b9-b586-5db9223e8a61.png)
+![scatter_matrix](charts/scatter_matrix.png)
 #### Heat Map
 
-![image](https://user-images.githubusercontent.com/90888090/175802295-fe6dfbae-947a-435a-9f76-e93a7fe95b24.png)
+![heatmap](charts/heatmap.png)
