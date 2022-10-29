@@ -3,7 +3,7 @@
 - Python 3.6
 - Analysis libraries: numpy, pandas
 - Visualization libraries: matplotlib, seaborn
-- Author: Wendy Ha (Swinburne University of Technology)
+- Author: Wendy Ha
 - Datasets: attached on github's folder
 - Dataset features' description: https://drive.google.com/file/d/196pHYmHcZWwuKEgetPp5GQQ3cSZXpZ-C/view
 ## Objective
